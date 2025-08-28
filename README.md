@@ -1,0 +1,1 @@
+Welcome to my personal portfolio website! I’m Gowtham — a biomedical engineer turned frontend developer and entrepreneur. This site showcases my projects, resume, and contact information, and is built using HTML, CSS, and JavaScript.
